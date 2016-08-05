@@ -17,7 +17,7 @@ This features adds a pop-up box to the editor as a user types a command or repor
 2. [Integration with command center](https://github.com/NetLogo/NetLogo/pull/1081)   
 3. [Algorithm improvements](https://github.com/NetLogo/NetLogo/pull/1093)
 
-The screenshots of the feature could be found below.
+The screenshots of the feature can be found below.
 
 ###2. [Show Usage](https://github.com/NetLogo/NetLogo/pull/1079)
 
