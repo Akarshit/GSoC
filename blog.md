@@ -19,6 +19,8 @@ This features adds a pop-up box to the editor as a user types a command or repor
 
 The screenshots of the feature can be found below.
 
+![Imgur](http://i.imgur.com/Zl2LIRe.png)
+
 ###2. [Show Usage](https://github.com/NetLogo/NetLogo/pull/1079)
 
 This adds a pop-up box to the editor which can be selected from the right click menu. The pop-up contains all the occurrence of the variable for which the `Show Usage` was invoked.
