@@ -13,7 +13,7 @@ The aim of the project was to add some features to the [NetLogo](https://github.
 ###1. [Auto Complete](https://github.com/NetLogo/NetLogo/pull/1072)
 This features adds a pop-up box to the editor as a user types a command or reporter. The user can simply choose the suggestion using the arrow keys or dismiss the pop-up. Some enhancements have also been made in the feature like
 
-* [Elements can be chosen with mouse click](https://github.com/NetLogo/NetLogo/pull/1080)  
+1. [Elements can be chosen with mouse click](https://github.com/NetLogo/NetLogo/pull/1080)  
 2. [Integration with command center](https://github.com/NetLogo/NetLogo/pull/1081)   
 3. [Algorithm improvements](https://github.com/NetLogo/NetLogo/pull/1093)
 
